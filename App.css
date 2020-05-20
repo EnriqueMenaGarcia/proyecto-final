@@ -1,0 +1,69 @@
+h1 {
+
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  font-family:Arial;
+  background-color:pink;
+
+}
+.title {
+  text-align: center;
+  color:#000000;
+    font-family: Calibri Light;
+font-size:75px;
+ line-height: 75px;
+
+  width: 100%;
+    height: 85px;
+
+}
+
+/*Aqui le das los parametros a cada una de las etiquetas*/
+
+body{
+  position: relative;
+ 
+  text-align: center;
+ background-image: url("https://static8.depositphotos.com/1007388/1008/i/950/depositphotos_10086234-stock-photo-soft-pink-background.jpg");
+  background-color: #e3e1e5;
+ 
+}
+
+img{
+  width: 600px;
+  height: 600px; 
+padding: 10px; 
+margin: 10px;
+ border: 2px solid black;
+  float: left; 
+  text-align: center;
+
+}
+button{
+
+width: 160px;
+height: 50px; 
+text-align: center;
+text-align: center;
+color:black;
+background-color:#fff8dc;
+font-family:Arial Black;
+
+}
+
+
+
+.footer,h2 {
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+   width:100%;
+   background-color:#bdbdbd;
+   
+
+}
